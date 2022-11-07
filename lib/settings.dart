@@ -1,0 +1,1 @@
+const prefixToClean = '/v1/';
